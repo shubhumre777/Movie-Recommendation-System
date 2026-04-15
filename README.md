@@ -31,11 +31,11 @@ It also integrates with the <b>TMDB API</b> to dynamically fetch movie posters.
 <h2>🚀 Features</h2>
 
 <ul>
-  <li>🎯 Content-based movie recommendations</li>
-  <li>⚡ Fast similarity computation using TF-IDF</li>
-  <li>🖼️ Dynamic movie posters via TMDB API</li>
-  <li>🎲 Random movie browsing on homepage</li>
-  <li>🎨 Dark-themed modern UI using Streamlit</li>
+  <li> Content-based movie recommendations</li>
+  <li> Fast similarity computation using TF-IDF</li>
+  <li> Dynamic movie posters via TMDB API</li>
+  <li> Random movie browsing on homepage</li>
+  <li> Dark-themed modern UI using Streamlit</li>
 </ul>
 
 ---
