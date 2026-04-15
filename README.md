@@ -167,7 +167,7 @@ This project is licensed under the <b>MIT License</b>.
 <h2 align="center">👨‍💻 Author</h2>
 
 <p align="center">
-  <b>Shubhum Re</b><br>
+  <b>Shubh Umre</b><br>
   <a href="https://github.com/shubhumre777">GitHub Profile</a>
 </p>
 
