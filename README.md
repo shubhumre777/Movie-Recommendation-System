@@ -3,13 +3,32 @@
 <h1 align="center">🎬 Movie Recommendation System</h1>
 
 <p align="center">
-  <b>A modern Machine Learning-powered movie recommendation app built with Streamlit</b>
+  <b>Smart movie recommendations powered by Machine Learning & deployed with Streamlit</b>
+</p>
+
+<p align="center">
+  <a href="https://movie-recommendation-system-kyjzdhbypjhehqmsfrvzwa.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Live%20Demo-Click%20Here-success?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-Deployed-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-TF--IDF-green?style=for-the-badge" />
+</p>
+
+---
+
+<!-- ================= LIVE DEMO ================= -->
+
+<h2>🌐 Live Application</h2>
+
+<p>
+Experience the app here:<br><br>
+👉 <a href="https://movie-recommendation-system-kyjzdhbypjhehqmsfrvzwa.streamlit.app/" target="_blank">
+<b>Movie Recommendation System (Live)</b>
+</a>
 </p>
 
 ---
@@ -19,9 +38,12 @@
 <h2>📌 About the Project</h2>
 
 <p>
-This project is a <b>content-based movie recommendation system</b> that suggests movies similar to a selected title using 
-<b>TF-IDF vectorization</b> and <b>cosine similarity</b>.  
-It also integrates with the <b>TMDB API</b> to dynamically fetch movie posters.
+This is a <b>content-based movie recommendation system</b> that suggests similar movies based on user selection.  
+It uses <b>TF-IDF vectorization</b> and <b>cosine similarity</b> to compute relationships between movies.
+</p>
+
+<p>
+The app also integrates with the <b>TMDB API</b> to fetch high-quality movie posters dynamically, providing a visually rich experience.
 </p>
 
 ---
@@ -31,11 +53,12 @@ It also integrates with the <b>TMDB API</b> to dynamically fetch movie posters.
 <h2>🚀 Features</h2>
 
 <ul>
-  <li> Content-based movie recommendations</li>
-  <li> Fast similarity computation using TF-IDF</li>
-  <li> Dynamic movie posters via TMDB API</li>
-  <li> Random movie browsing on homepage</li>
-  <li> Dark-themed modern UI using Streamlit</li>
+  <li>🎯 Intelligent movie recommendations</li>
+  <li>⚡ Fast similarity computation using TF-IDF</li>
+  <li>🖼️ Real-time movie posters from TMDB API</li>
+  <li>🎲 Random movie browsing interface</li>
+  <li>🎨 Clean dark-themed UI</li>
+  <li>📱 Fully interactive Streamlit application</li>
 </ul>
 
 ---
@@ -45,12 +68,18 @@ It also integrates with the <b>TMDB API</b> to dynamically fetch movie posters.
 <h2>🧠 How It Works</h2>
 
 <p>
-The system transforms movie data into numerical vectors using <b>TF-IDF</b>, then computes similarity between movies using 
-<b>cosine similarity</b>. Based on this, it returns the most relevant recommendations.
+The system converts movie data into numerical vectors using <b>TF-IDF</b>, then calculates similarity scores using 
+<b>cosine similarity</b>. The top similar movies are returned as recommendations.
 </p>
 
 <pre>
-TF-IDF → Vectorization → Cosine Similarity → Top Recommendations
+User selects a movie
+        ↓
+TF-IDF vectorization
+        ↓
+Cosine similarity calculation
+        ↓
+Top 5 similar movies displayed
 </pre>
 
 ---
@@ -147,7 +176,7 @@ API_KEY = "your_api_key_here"
 <h2>🤝 Contributing</h2>
 
 <p>
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
+Feel free to fork this repository and contribute by submitting a pull request.
 </p>
 
 ---
@@ -162,13 +191,13 @@ This project is licensed under the <b>MIT License</b>.
 
 ---
 
-<!-- ================= FOOTER ================= -->
+<!-- ================= AUTHOR ================= -->
 
 <h2 align="center">👨‍💻 Author</h2>
 
 <p align="center">
-  <b>Shubh Umre</b><br>
+  <b>Shubhum Re</b><br>
   <a href="https://github.com/shubhumre777">GitHub Profile</a>
 </p>
 
-<p align="center">⭐ If you like this project, consider giving it a star!</p>
+<p align="center">⭐ Star this repo if you found it useful!</p>
