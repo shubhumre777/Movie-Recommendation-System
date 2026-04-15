@@ -79,7 +79,7 @@ def fetch_poster(movie_name):
 # MOVIE LIST ON THE PAGE
 
 
-df2 = pd.read_csv("data\movies_metadata.csv")
+df2 = pd.read_csv("data/movies_metadata.csv")
 
 st.subheader("Browse Movies")
 st.divider()
