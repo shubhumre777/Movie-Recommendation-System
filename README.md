@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://https://movie-recommendation-s-umre.streamlit.app/" target="_blank">
+  <a href="https://movie-recommendation-s-umre.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀 Live%20Demo-Click%20Here-success?style=for-the-badge" />
   </a>
 </p>
@@ -26,7 +26,7 @@
 
 <p>
 Experience the app here:<br><br>
-👉 <a href="https://movie-recommendation-system-kyjzdhbypjhehqmsfrvzwa.streamlit.app/" target="_blank">
+👉 <a href="https://movie-recommendation-s-umre.streamlit.app/" target="_blank">
 <b>Movie Recommendation System (Live)</b>
 </a>
 </p>
